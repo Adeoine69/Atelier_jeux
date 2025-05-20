@@ -1,6 +1,6 @@
 <h1>📝 README.md — Atelier des Jeux</h1><br>
 
-🎯 Description
+<title>🎯 Description</title>
 
 Ce projet est un mini système de gestion de tickets d'assistance destiné à un atelier de maintenance informatique.
 
@@ -11,7 +11,7 @@ Le projet permet aux utilisateurs de :
 
   - Et aux techniciens de les consulter et les traiter
 -------------------------------------
-⚙️ Installation
+<title>⚙️ Installation</title>
 
 Clone le projet github puis ensuite,
 
@@ -35,8 +35,8 @@ Droits d’accès aux fichiers (si besoin) :
   sudo chmod -R 755 /var/www/html/atelier-jeux
   sudo chown -R www-data:www-data /var/www/html/atelier-jeux
 -------------------------------------
-👨‍💻 Fonctionnalités<br>
-Utilisateur :
+<title>👨‍💻 Fonctionnalités</title><br>
+<strong>Utilisateur :</strong>
 
     • Accès libre à demande.php
 
@@ -44,7 +44,7 @@ Utilisateur :
 
     • Affichage d’un message de confirmation avec un ID
 
-Technicien :
+<strong>Technicien :</strong>
 
     • Connexion avec login/mot de passe
 
@@ -54,7 +54,7 @@ Technicien :
 
     • Changement de statut : ouvert, en cours, fermé
 -------------------------------------
-🧪 Technologies utilisées
+<title>🧪 Technologies utilisées</title>
 
     • PHP (procédural)
 
@@ -62,7 +62,7 @@ Technicien :
 
     • MySQL / MariaDB
 -------------------------------------
-📌 Auteur
+<title>📌 Auteur</title>
 
 Projet réalisé dans le cadre du BTS SIO<br>
 Année 2024-2025<br>
