@@ -1,4 +1,4 @@
-<h1>📝 README.md — Atelier des Jeux</h1><br>
+<h1>📝 Atelier des Jeux</h1><br>
 
 <h2>🎯 Description</h2>
 
