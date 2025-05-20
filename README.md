@@ -52,17 +52,17 @@ Droits d’accès aux fichiers (si besoin) :
 
     • Liste des tickets avec statut et action “modifier”
 
-    • Changement de statut : ouvert, en cours, fermé <br><br>
+    • Changement de statut : ouvert, en cours, fermé 
 
-<h2>🧪 Technologies utilisées</h2>
+<br><br><h2>🧪 Technologies utilisées</h2>
 
     • PHP (procédural)
 
     • HTML / CSS
 
-    • MySQL / MariaDB <br><br>
+    • MySQL / MariaDB 
 
-<h2>📌 Auteur</h2>
+<br><br><h2>📌 Auteur</h2>
 
 Projet réalisé dans le cadre du BTS SIO<br>
 Année 2024-2025<br>
