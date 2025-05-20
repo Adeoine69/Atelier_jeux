@@ -9,7 +9,7 @@ Le projet permet aux utilisateurs de :
 
   - Soumettre des demandes d’assistance
 
-  - Et aux techniciens de les consulter et les traiter
+  - Et aux techniciens de les consulter et les traiter<br><br>
 
 <h2>⚙️ Installation</h2>
 
@@ -33,7 +33,7 @@ Droits d’accès aux fichiers (si besoin) :
   
   Bash :
   sudo chmod -R 755 /var/www/html/atelier-jeux
-  sudo chown -R www-data:www-data /var/www/html/atelier-jeux
+  sudo chown -R www-data:www-data /var/www/html/atelier-jeux<br><br>
 
 <h2>👨‍💻 Fonctionnalités</h2><br>
 <strong>Utilisateur :</strong>
@@ -52,7 +52,7 @@ Droits d’accès aux fichiers (si besoin) :
 
     • Liste des tickets avec statut et action “modifier”
 
-    • Changement de statut : ouvert, en cours, fermé
+    • Changement de statut : ouvert, en cours, fermé <br><br>
 
 <h2>🧪 Technologies utilisées</h2>
 
@@ -60,7 +60,7 @@ Droits d’accès aux fichiers (si besoin) :
 
     • HTML / CSS
 
-    • MySQL / MariaDB
+    • MySQL / MariaDB <br><br>
 
 <h2>📌 Auteur</h2>
 
