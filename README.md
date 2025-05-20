@@ -30,12 +30,11 @@ Fichier : includes/bdd.php
   $pdo = new PDO('mysql:host=localhost;dbname=atelier_jeux', 'utilisateur', 'motdepasse');
 
 Droits d’accès aux fichiers (si besoin) :
-  
-  Bash:
+
   sudo chmod -R 755 /var/www/html/atelier-jeux
   sudo chown -R www-data:www-data /var/www/html/atelier-jeux
 -------------------------------------
-<title>👨‍💻 Fonctionnalités</title><br><br>
+<h2>👨‍💻 Fonctionnalités</h2><br><br>
 <strong>Utilisateur :</strong>
 
     • Accès libre à demande.php
@@ -54,7 +53,7 @@ Droits d’accès aux fichiers (si besoin) :
 
     • Changement de statut : ouvert, en cours, fermé
 -------------------------------------
-<title>🧪 Technologies utilisées</title>
+<h2>🧪 Technologies utilisées</h2>
 
     • PHP (procédural)
 
@@ -62,7 +61,7 @@ Droits d’accès aux fichiers (si besoin) :
 
     • MySQL / MariaDB
 -------------------------------------
-<title>📌 Auteur</title>
+<h2>📌 Auteur</h2>
 
 Projet réalisé dans le cadre du BTS SIO<br>
 Année 2024-2025<br>
