@@ -30,11 +30,13 @@ Fichier : includes/bdd.php
   $pdo = new PDO('mysql:host=localhost;dbname=atelier_jeux', 'utilisateur', 'motdepasse');
 
 Droits d’accès aux fichiers (si besoin) :
-
+  
+  Bash :
   sudo chmod -R 755 /var/www/html/atelier-jeux
   sudo chown -R www-data:www-data /var/www/html/atelier-jeux
+
 -------------------------------------
-<h2>👨‍💻 Fonctionnalités</h2><br><br>
+<h2>👨‍💻 Fonctionnalités</h2><br>
 <strong>Utilisateur :</strong>
 
     • Accès libre à demande.php
