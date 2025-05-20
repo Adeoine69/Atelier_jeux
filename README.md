@@ -10,7 +10,7 @@ Le projet permet aux utilisateurs de :
   - Soumettre des demandes d’assistance
 
   - Et aux techniciens de les consulter et les traiter
--------------------------------------
+
 <h2>⚙️ Installation</h2>
 
 Clone le projet github puis ensuite,
@@ -35,7 +35,6 @@ Droits d’accès aux fichiers (si besoin) :
   sudo chmod -R 755 /var/www/html/atelier-jeux
   sudo chown -R www-data:www-data /var/www/html/atelier-jeux
 
--------------------------------------
 <h2>👨‍💻 Fonctionnalités</h2><br>
 <strong>Utilisateur :</strong>
 
@@ -54,7 +53,7 @@ Droits d’accès aux fichiers (si besoin) :
     • Liste des tickets avec statut et action “modifier”
 
     • Changement de statut : ouvert, en cours, fermé
--------------------------------------
+
 <h2>🧪 Technologies utilisées</h2>
 
     • PHP (procédural)
@@ -62,7 +61,7 @@ Droits d’accès aux fichiers (si besoin) :
     • HTML / CSS
 
     • MySQL / MariaDB
--------------------------------------
+
 <h2>📌 Auteur</h2>
 
 Projet réalisé dans le cadre du BTS SIO<br>
