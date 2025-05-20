@@ -1,6 +1,6 @@
 <h1>📝 README.md — Atelier des Jeux</h1><br>
 
-<title>🎯 Description</title>
+<FONT size="10pt">🎯 Description</FONT>
 
 Ce projet est un mini système de gestion de tickets d'assistance destiné à un atelier de maintenance informatique.
 
@@ -35,7 +35,7 @@ Droits d’accès aux fichiers (si besoin) :
   sudo chmod -R 755 /var/www/html/atelier-jeux
   sudo chown -R www-data:www-data /var/www/html/atelier-jeux
 -------------------------------------
-<title>👨‍💻 Fonctionnalités</title><br>
+<title>👨‍💻 Fonctionnalités</title><br><br>
 <strong>Utilisateur :</strong>
 
     • Accès libre à demande.php
