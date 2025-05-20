@@ -1,4 +1,4 @@
-📝 README.md — Atelier des Jeux
+<h1>📝 README.md — Atelier des Jeux</h1><br>
 
 🎯 Description
 
@@ -10,7 +10,7 @@ Le projet permet aux utilisateurs de :
   - Soumettre des demandes d’assistance
 
   - Et aux techniciens de les consulter et les traiter
-
+-------------------------------------
 ⚙️ Installation
 
 Clone le projet github puis ensuite,
@@ -64,8 +64,8 @@ Technicien :
 
 📌 Auteur
 
-Projet réalisé dans le cadre du BTS SIO
-Année 2024-2025
-Élève : 
-Antoine HUGOT 
+Projet réalisé dans le cadre du BTS SIO<br>
+Année 2024-2025<br>
+Élève : <br>
+Antoine HUGOT<br> 
 Matteo LEGRAND
