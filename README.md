@@ -1,6 +1,6 @@
 <h1>📝 README.md — Atelier des Jeux</h1><br>
 
-<FONT size="10pt">🎯 Description</FONT>
+<FONT size="100pt">🎯 Description</FONT>
 
 Ce projet est un mini système de gestion de tickets d'assistance destiné à un atelier de maintenance informatique.
 
