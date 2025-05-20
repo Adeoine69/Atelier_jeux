@@ -34,8 +34,8 @@ Droits d’accès aux fichiers (si besoin) :
   Bash:
   sudo chmod -R 755 /var/www/html/atelier-jeux
   sudo chown -R www-data:www-data /var/www/html/atelier-jeux
-
-👨‍💻 Fonctionnalités
+-------------------------------------
+👨‍💻 Fonctionnalités<br>
 Utilisateur :
 
     • Accès libre à demande.php
@@ -53,7 +53,7 @@ Technicien :
     • Liste des tickets avec statut et action “modifier”
 
     • Changement de statut : ouvert, en cours, fermé
-
+-------------------------------------
 🧪 Technologies utilisées
 
     • PHP (procédural)
@@ -61,7 +61,7 @@ Technicien :
     • HTML / CSS
 
     • MySQL / MariaDB
-
+-------------------------------------
 📌 Auteur
 
 Projet réalisé dans le cadre du BTS SIO<br>
